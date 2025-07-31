@@ -54,4 +54,4 @@ A adoção dessas soluções permitiu à **Abstergo Pharmaceutical Industries** 
 
 ### Assinatura do Responsável Técnico
 
-**@venelouis**
+**@jadsoncerqueira**
